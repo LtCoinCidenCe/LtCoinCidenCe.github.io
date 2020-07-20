@@ -1,0 +1,19 @@
+html {
+	background-color: beige;
+	font-size: 20px;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	padding: 60px 20px 0px 20px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+#imageHead {
+	display: block;
+	margin: 0 auto;
+}
